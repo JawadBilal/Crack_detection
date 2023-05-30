@@ -1,0 +1,16 @@
+.App {
+  text-align: center;
+}
+
+body{
+  margin: 0;
+  padding: 0;
+}
+.content-container {
+  min-height: calc(100vh - 34px);
+}
+.footer--pin {
+  position: relative;
+  left: 0;
+  bottom: 0;
+}

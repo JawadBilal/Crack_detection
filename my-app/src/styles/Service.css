@@ -1,0 +1,26 @@
+.serve {
+    width: 100%;
+    height: 90vh;
+    display: flex;
+    justify-content: center;
+    align-items: left;
+    flex-direction: column;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    align-content: left;
+    text-align: left;
+    padding-left: 40px;
+    font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  }
+  .serve h1{
+    font-size: 90px;
+    color:white;
+    font-weight: lighter;
+  }
+  .serve h3{
+    font-size: 40px;
+    color:white;
+    font-weight: lighter;
+
+  }
